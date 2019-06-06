@@ -21,8 +21,8 @@ optional arguments:
                    clicks, 0 = Do NOT update on mouse clicks)
 ```
 Require: 
-* Turtle
-* Python
+* Turtle (apt install python3-tk & pip3 install turtle)
+* Python (apt install python3)
                    
 # Example
 
