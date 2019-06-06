@@ -20,12 +20,15 @@ optional arguments:
   --click [0;1]    update plot relative to mouse clicks; (1 = Update on mouse
                    clicks, 0 = Do NOT update on mouse clicks)
 ```
-Require: 
-* Turtle (apt install python3-tk & pip3 install turtle)
-* Python (apt install python3)
+# Built With
+* [Turtle](https://docs.python.org/3.3/library/turtle.html) (apt install python3-tk & pip3 install turtle)
+* [Python](https://www.python.org/) (apt install python3)
                    
 # Example
 
 Here's an example of a recent CTF (in this example, the image was updated every letter)
 
 ![alt text](https://github.com/regi18/plotMouseMovements/blob/master/example.jpg)
+
+# May be useful
+* [hexascii2bin](https://github.com/regi18/hexascii2bin)
