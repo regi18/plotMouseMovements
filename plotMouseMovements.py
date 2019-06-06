@@ -61,6 +61,6 @@ finally:
     if (args.click == 0):
         turtle.update()
 
-    input("Press Enter to close . . . .")
+    turtle.exitonclick()
     f.close()
     exit()
