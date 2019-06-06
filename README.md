@@ -23,6 +23,6 @@ optional arguments:
                    
 # Usage
 
-Here's an example of a recent CTF
+Here's an example of a recent CTF (in this example, the image was updated every letter)
 
 ![alt text](https://github.com/regi18/plotMouseMovements/blob/master/example.jpg)
