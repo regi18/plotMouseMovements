@@ -20,9 +20,11 @@ optional arguments:
   --click [0;1]    update plot relative to mouse clicks; (1 = Update on mouse
                    clicks, 0 = Do NOT update on mouse clicks)
 ```
+Require: 
+* Turtle
+* Python
                    
-                   
-# Usage
+# Example
 
 Here's an example of a recent CTF (in this example, the image was updated every letter)
 
