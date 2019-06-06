@@ -25,4 +25,4 @@ optional arguments:
 
 Here's an example of a recent CTF
 
-![alt text](https://github.com/regi18/plotMouseMovements/blob/master/example.png)
+![alt text](https://github.com/regi18/plotMouseMovements/blob/master/example.jpg)
