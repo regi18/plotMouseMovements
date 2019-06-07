@@ -30,7 +30,9 @@ optional arguments:
 # Example
 
 Here's an example of a recent CTF (in this example, the image was updated every letter)
-
+```Matplotlib```
+![alt text](https://github.com/regi18/plotMouseMovements/blob/master/matplotlibexample.jpg)
+```Turtle```
 ![alt text](https://github.com/regi18/plotMouseMovements/blob/master/example.jpg)
 ```In this case the flag was:  FLAG_7RXDNT52K6P```
 
