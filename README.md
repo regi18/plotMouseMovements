@@ -5,7 +5,7 @@ For example if you pass as input a copy of '/dev/input/mice' it will replay ever
 
 
 # Usage
-> matplotlib version  
+###### matplotlib version  
 usage: plotMouseMovements.py [-h] [--speed [SPEED]] [--color [COLOR]]
                              [inputfile]
 ```
