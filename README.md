@@ -1,7 +1,7 @@
 # Plot Mouse Movements
 
 Plot raw mouse data.
-For example if you pass as input a copy of '/dev/input/mice' it will replay everything done on a plot.
+For example if you pass as input a copy of '/dev/input/mice' it will replay everything done on a plot. There are two python scripts: the first one (plotMouseMovements.py) is using matplotlib, while the second uses python's turtle.
 
 
 # Usage
