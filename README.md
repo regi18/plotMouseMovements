@@ -39,5 +39,11 @@ Here's an example of a recent CTF (in this example, the image was updated every 
 # May be useful
 * [hexascii2bin](https://github.com/regi18/hexascii2bin)
 
+---
+
 # Contributors
 [regi18](https://github.com/regi18/)
+
+## License
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
