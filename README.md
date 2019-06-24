@@ -43,5 +43,5 @@ Here's an example of a recent CTF (in this example, the image was updated every 
 [regi18](https://github.com/regi18/)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details<br><br>
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details<br><br>
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
