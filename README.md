@@ -41,7 +41,7 @@ Here's an example of a recent CTF (in this example, the image was updated every 
 
 ---
 
-# Contributors
+## Contributors
 [regi18](https://github.com/regi18/)
 
 ## License
