@@ -38,3 +38,6 @@ Here's an example of a recent CTF (in this example, the image was updated every 
 
 # May be useful
 * [hexascii2bin](https://github.com/regi18/hexascii2bin)
+
+# Contributors
+[regi18](https://github.com/regi18/)
